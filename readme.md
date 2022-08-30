@@ -1,1 +1,1 @@
-I don't love git, I think. It looks complicated.
+I don't love git, I think. It looks complicated. Second class looks ok.
